@@ -1,0 +1,32 @@
+[
+  {
+    "title": "CS Club Hackathon",
+    "description": "24-hour hackathon open to all students.",
+    "start_time": "2025-03-20T18:00:00",
+    "end_time": "2025-03-21T18:00:00",
+    "location": "Engineering Building Room 202",
+    "category": "Tech",
+    "source": "CS Club",
+    "url": "https://university.edu/events/cs-hackathon"
+  },
+  {
+    "title": "Career Networking Night",
+    "description": "Meet recruiters and alumni from top companies.",
+    "start_time": "2025-03-25T17:00:00",
+    "end_time": "2025-03-25T20:00:00",
+    "location": "Student Center Hall",
+    "category": "Career",
+    "source": "Career Services",
+    "url": "https://university.edu/events/career-night"
+  },
+  {
+    "title": "International Students Meetup",
+    "description": "Casual networking event for Yeshiva international students.",
+    "start_time": "2025-03-28T16:00:00",
+    "end_time": "2025-03-28T18:00:00",
+    "location": "Global Lounge",
+    "category": "Social",
+    "source": "Student Affairs",
+    "url": "https://university.edu/events/international-meetup"
+  }
+]
