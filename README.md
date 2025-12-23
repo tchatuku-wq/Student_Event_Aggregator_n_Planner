@@ -3,8 +3,8 @@
 A full-stack web application that helps university students discover, filter, view, and save campus/community events from multiple sources.
 
 **Author:** Tafirenyika Bonfrey Chatukuta  
-**Course:** (Your course name here)  
-**Semester:** (Your semester here)  
+**Course:** Fundamentals of Software Engineering  
+**Semester:** Fall 2025  
 **Project Type:** Individual Project
 
 ---
